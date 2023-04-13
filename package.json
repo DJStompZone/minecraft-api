@@ -22,7 +22,7 @@
     "@types/http-errors": "^1.8.1",
     "@types/qs": "^6.9.7",
     "@vercel/node": "^1.12.1",
-    "aws-serverless-express": "3.3.8",
+    "aws-serverless-express": "3.4.0",
     "axios": "0.24.0",
     "cors": "2.8.5",
     "express": "4.17.1",
